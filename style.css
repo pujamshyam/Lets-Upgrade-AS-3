@@ -1,0 +1,109 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-image: url("Screenshot_20200911_090419.jpg");
+    background-size: cover;
+}
+h1{
+    color: white;
+    letter-spacing: 5px;
+}
+span{
+    color: red;
+}
+#a{
+    background-color: rgb(0, 0, 0);
+    margin: 0px;
+    padding: 8px;
+    padding-left: 50px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+
+}
+.b{
+   display: flex; 
+}
+ul li{
+    display: inline-block;
+    padding-right: 50px;
+    margin-top: 20px;
+}
+ul li a{
+    text-decoration: none;
+    justify-content: space-between;
+    color: white;
+}
+ul li a:hover{
+    color: red;
+}
+#sub{
+    margin-top: 22px;
+    margin-bottom: 22px;
+    margin-right: 45px;
+    background-color: red;
+    padding: 8px;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    transition: transform .4s;
+
+}
+#sub:hover{
+    transform: scale(1.1);
+}
+#z{
+    margin-top: 220px;
+    margin-left: 100px;
+    
+}
+p{
+    color: white;
+    margin-bottom: -50px;
+    font-size: 18px;
+}
+.A{
+    color:white;
+    font-size: 100px;
+}
+h4{
+    color:white;
+    font-size: 25px;
+    margin-top: -40px;
+}
+form{
+    margin-left: 100px;
+}
+#x{
+    padding: 10px;
+    padding-right: 90px;
+    border: 3px solid red;
+    border-radius: 20px;
+}
+#y{
+    margin-left: -80px;
+    background-color: red;
+    padding: 4px;
+    border-radius: 10px;
+    color: white;
+    transition: transform .4sec;
+}
+#y:hover{
+    transform: scale(1.1);
+}
+#t{
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+.qw{
+    margin-left: -35px;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+h3{
+    color: white;
+    margin-bottom: -10px;
+}
